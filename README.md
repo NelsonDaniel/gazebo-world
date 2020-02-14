@@ -1,4 +1,4 @@
-# gazebo-world-project
+# gazebo-world
 This is my first project for the Udacity Robotics Software Engineer Nanodegree. This repository contains:
 
 - model folder:
